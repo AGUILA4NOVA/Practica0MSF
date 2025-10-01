@@ -5,9 +5,9 @@ Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
 
-Nombre del alumno: Garcia Sanchez Luis Fabian
-Número de control: 12345678
-Correo institucional: xxx.xxx@tectijuana.edu.mx
+Nombre del alumno: Ibarra Salas Braulio Alejandro
+Número de control: 22212387
+Correo institucional: L22212387@tectijuana.edu.mx
 
 Asignatura: Modelado de Sistemas Fisiológicos
 Docente: Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
@@ -135,4 +135,5 @@ plt.legend(bbox_to_anchor = (0.5,-0.2),loc = 'center', ncol = 3,
             fontsize = 9, frameon = True)
 
 plt.show()
+
 fg4.savefig('sin_python.pdf',bbox_inches = 'tight')
