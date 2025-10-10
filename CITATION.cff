@@ -10,13 +10,12 @@ authors:
     family-names: Ibarra Salas
     email: l22212387@tijuana.tecnm.mx
     affiliation: Tecnm-ITT
-repository-code: 'https://github.com/BraulioIbarraSalas/Practica0MSF'
+repository-code: 'https://github.com/BraulioIbarraSalas/Practica1MSF'
 keywords:
-  - Circuito RLC
-  - Controlador PID
-  - Sistema respiratorio
-  - Modelo matematico
-  - Simulaciones numericas
+  - Función de transferencia
+  - modelo de ecuaciones integro-diferenciales
+  - estabilidad y error en estado estacionario
+  - Análisis matemático
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-09-19'
+date-released: '2025-10-09'
